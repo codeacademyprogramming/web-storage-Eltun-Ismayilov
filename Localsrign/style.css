@@ -1,0 +1,11 @@
+.eltun{
+     position: absolute; 
+     margin-top: -156px;
+     width: 79px;
+     height: 30px;
+     background-color: red;
+     margin-left: -16px;
+     color: white;
+     padding-top: 2px;
+     padding-left: 5px;
+}
